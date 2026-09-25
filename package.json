@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-brawl-stars",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Brawl Stars MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-eb7a6e71f76c0432a74e8abe7359554207c6c1f95259986ebfc0279e83b84c80",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-abf6b3dce8dceb7d5fa120ec184f99019683ba01b2ace1a6bd458b5ad9599d9e",
+    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
   }
 }
