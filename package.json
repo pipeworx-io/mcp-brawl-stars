@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-brawl-stars",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Brawl Stars MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "brawl-stars",
     "gatewaySlug": "brawl-stars",
-    "sourceHash": "v1-d1b529e25cdf1b9761067252f9b7790305635fc6c7f7d46cf703f808317030f5",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-aed31b6521fde0dc49b4bc9a85f2938e91bf32b5a410fac8e29b89c378b1b328",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
